@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.yandex.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. kormilets39</name>
+    <name>kormilets39</name>
 
     <description>
         Натуральные мясопродукты для собак и кошек с бесплатной доставкой по Калининградской области!
@@ -40,9 +40,9 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/9e52648be4116bbe797cf8b902e69877.png" density="ldpi" />
-        <icon src="res/android/icon/8d0f727434973a9e99c24ebfd8594f13.png" density="mdpi" />
-        <icon src="res/android/icon/97ec509f8cf4d60a23a02ed61709b6cc.png" density="hdpi" />
+        <icon src="res/android/icon/9111b34db23f29ece1a6a249dbc8980a.png" density="ldpi" />
+        <icon src="res/android/icon/ec19507e335af6a2bb72c87d33c463fd.png" density="mdpi" />
+        <icon src="res/android/icon/9b858787532bc695a5959941fdb1c344.png" density="hdpi" />
         <icon src="res/android/icon/b8905abe161d167c6b083cfb37cc845e.png" density="xhdpi" />
         <icon src="res/android/icon/6e720f2aa9972be1ef37c49273935ff9.png" density="xxhdpi" />
         <icon src="res/android/icon/dd06d5ad00acb91babe1bc06e8bb6e01.png" density="xxxhdpi" />
